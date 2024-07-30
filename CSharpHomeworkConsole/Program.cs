@@ -33,8 +33,36 @@
             Console.WriteLine("Are you a student? true or false");
             student = bool.Parse(Console.ReadLine());
 
-            Console.WriteLine("Welcome " + name);
+            Console.WriteLine("Welcome " + name + " please, hit enter");
 
+            Console.ReadLine();
+
+                Assignment2();
+            //Assignment2();
+            Console.WriteLine("Thanks for using the calculator " + name);
         }
+            static void Assignment2()
+            {
+                double number1, number2;
+
+              
+                Console.WriteLine("Enter the first number:");
+                number1 = double.Parse(Console.ReadLine());
+
+                Console.WriteLine("Enter the second number:");
+                number2 = double.Parse(Console.ReadLine());
+
+                double addition = number1 + number2;
+                double substraction = number1 - number2;
+                double multiplication = number1 * number2;
+                double division = number1 / number2;
+
+                // Mostrar resultados
+                Console.WriteLine("Addition: " + addition);
+                Console.WriteLine("Subtraction: " + substraction);
+                Console.WriteLine("Multiplication: " + multiplication);
+                Console.WriteLine("Division: " + division);
+
+            }
     }
 }
