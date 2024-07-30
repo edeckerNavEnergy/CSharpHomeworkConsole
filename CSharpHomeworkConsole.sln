@@ -5,6 +5,11 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpHomeworkConsole", "CSharpHomeworkConsole\CSharpHomeworkConsole.csproj", "{D6ACEAAD-6439-4FF1-BBBC-83537E43CC49}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE5E55CB-9A77-4B0C-9A71-3A31C73CCC05}"
+	ProjectSection(SolutionItems) = preProject
+		Homework.txt = Homework.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

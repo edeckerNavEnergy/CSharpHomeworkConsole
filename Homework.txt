@@ -1,0 +1,74 @@
+## Basic Concepts for Beginning C# Programmers
+
+1. Variables and Data Types
+2. Operators (Arithmetic, Comparison, Logical)
+3. Control Structures (if-else, switch)
+4. Loops (for, while, do-while)
+5. Arrays and Lists
+6. Methods (Functions)
+7. Object-Oriented Programming Basics (Classes and Objects)
+8. Input/Output Operations
+9. Exception Handling
+10. Basic String Manipulation
+
+## Homework Assignments
+
+### 1. Variables and Data Types
+Assignment: Create a "Personal Information" program
+- Declare variables to store name, age, height, and whether the person is a student (bool).
+- Assign values to these variables and print them to the console.
+(Optional: Use Console.Writeline to prompt for this information and use Console.ReadLine to read in the value for these variables)
+
+### 2. Operators
+Assignment: Build a "Simple Calculator"
+- Create a program that takes two numbers as input.
+- Perform addition, subtraction, multiplication, and division on these numbers.
+- Display the results of each operation.
+(Optional: Use Console.Writeline to prompt for this information and use Console.ReadLine to read in the value for these variables)
+(Advanced Optional: Build the simple Blazor Web Interface of a calculator)
+
+
+### 3. Control Structures
+Assignment: Develop a "Grade Calculator"
+- Ask the user to input a numerical grade (0-100).
+- Use if-else statements to determine and display the letter grade (A, B, C, D, or F).
+
+### 4. Loops
+Assignment: Create a "Multiplication Table Generator"
+- Prompt the user to enter a number.
+- Use a for loop to generate and display the multiplication table for that number (up to 10).
+
+### 5. Arrays and Lists
+Assignment: Build a "Shopping List Manager"
+- Create an array to store shopping items.  Also repeat this exercise with a List
+- Allow the user to add items, remove items, and display the current list.
+
+### 6. Methods
+Assignment: Develop a "Temperature Converter"
+- Create methods to convert Celsius to Fahrenheit and vice versa.
+- Allow the user to choose which conversion they want to perform.
+- Use methods to perform the calculations and display the results.
+
+### 7. Object-Oriented Programming Basics
+Assignment: Design a "Library Book System"
+- Create a Book class with properties like Title, Author, and ISBN.
+- Implement methods to check out and return books.
+- Create a few Book objects and demonstrate their usage.
+
+### 8. Input/Output Operations
+Assignment: Build a "File Logger"
+- Create a program that asks the user for input and writes it to a text file.
+- Implement functionality to read and display the contents of the file.
+
+### 9. Exception Handling
+Assignment: Develop a "Robust Calculator"
+- Enhance the earlier calculator program to handle potential errors.
+- Use try-catch blocks to manage exceptions like division by zero or invalid input.
+
+### 10. Basic String Manipulation
+Assignment: Create a "Text Analyzer"
+- Ask the user to input a sentence.
+- Count and display the number of words, characters, and vowels in the sentence.
+- Convert the sentence to uppercase and lowercase.
+
+These assignments cover the fundamental concepts of C# programming and provide hands-on practice for beginners. They progress from simple tasks to more complex ones, allowing students to build on their knowledge gradually. Remember to provide clear instructions and possibly some starter code for each assignment to guide the students effectively.

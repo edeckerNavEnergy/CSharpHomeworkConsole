@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Assignment1();
+            //Assignment2();
         }
         static void Assignment1()
         {
