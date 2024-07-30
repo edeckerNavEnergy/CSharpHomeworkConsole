@@ -34,6 +34,7 @@
             student = bool.Parse(Console.ReadLine());
 
             Console.WriteLine("Welcome " + name);
+
         }
     }
 }
